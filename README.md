@@ -16,6 +16,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo2008-DL&show_icons=true&theme=algolia&hide=issues,contribs&include_all_commits=true&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaton&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo2008-DL&layout=compact)
 
 
