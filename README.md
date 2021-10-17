@@ -1,14 +1,17 @@
 ### Hello World 👋 I am Danilo!
 
 ##
-![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+
 ##
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascaton/)
