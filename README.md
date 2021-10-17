@@ -13,8 +13,7 @@
 
 ##
 
-![GitHub stats](https://github.com/danilommedeiros)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo2008-DL&layout=compact)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandoleonid&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/danilommedeiros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilommedeiros&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 
