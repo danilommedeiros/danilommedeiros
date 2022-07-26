@@ -1,7 +1,7 @@
 ### Hello World 👋 I am Danilo!
-   Welcome👋! I'm happy to see you here 😁! My name is Danilo and I am 14 years old. I've been passionate about technology since I was little, I'm always looking for new things    to learn and create. That's why I chose the Front-End development area 😍.
+   Welcome👋! I'm happy to see you here 😁! My name is Danilo and I am 14 years old. I've been passionate about technology since I was little, I'm always looking for new things    to learn and create. That's why I choose the Front-End development way 😍.
 
-It will be an immense pleasure to talk, contact us whenever you want 🤚!
+It will be an immense pleasure to talk, contact me whenever you want 🤚!
 
 ##
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
