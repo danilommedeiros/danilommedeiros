@@ -10,7 +10,7 @@ It will be an immense pleasure to talk, contact me whenever you want 🤚!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/danilomotademedeiros) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilomotademedeiros/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=red)](mailto:danilo.medeiros800@gmail.com)
 
 # 💻 Tech Stack:
