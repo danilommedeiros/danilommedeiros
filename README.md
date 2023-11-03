@@ -11,7 +11,7 @@ It will be an immense pleasure to talk, contact me whenever you want 🤚!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/danilo-mota-de-medeiros-51a9461b1) 
-[![Gmail](https://img.shields.io/badge/Gmail-%Gmail-D14836.svg?logo=gmail&logoColor=red)](mailto:danilo.medeiros800@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=red)](mailto:danilo.medeiros800@gmail.com) 
 
 # 💻 Tech Stack:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
