@@ -6,7 +6,7 @@ It will be an immense pleasure to talk, contact me whenever you want 🤚!
 ##
 
 # 💫 About Me:
-🔭 I’m currently working on Front-end<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help to get experience<br>🌱 I’m currently learning Next.js<br>💬 Ask me about availability<br>⚡ Fun fact "I don't know how to centralize a div"
+🔭 I’m currently working on Front-end<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help to get experience<br>🌱 I’m currently learning Next.js<br>💬 Ask me about availability<br>⚡ Fun fact "I don't know how to center a div"
 
 
 ## 🌐 Socials:
